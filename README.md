@@ -1,4 +1,6 @@
 # fallguys_name_picker
+Apparently this script is against Fall Guys EULA. Use at your own risk.
+
 Automates random name generation for Fall Guys on PC.
 
 Not 100% accurate. Expect a correct detection rate of about 90% (based on my testing).
