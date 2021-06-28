@@ -13,4 +13,4 @@ Fall Guys client must be windowed, and 1600 x 900.
 The Fall Guys window must be aligned so that the left edge of the Profile box is touching the left bezel of your display, and the \[Esc\] icon next to the Back text touches the Taskbar.
 Take a look at the image below:
 
-![Window Setup](https://imgur.com/a/rT9blwf)
+![Window Setup](https://i.imgur.com/TXmKcCp.png)
