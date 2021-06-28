@@ -1,6 +1,8 @@
 # fallguys_name_picker
 Automates random name generation for Fall Guys on PC.
 
+Not 100% accurate. Expect a correct detection rate of about 90% (based on my testing).
+
 # requirements
 Python 3.7+
 
